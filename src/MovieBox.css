@@ -1,0 +1,11 @@
+.MovieBox {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 50px;
+  max-height: 495px;
+  max-width: 300px;
+  overflow: hidden;
+}
+
+
